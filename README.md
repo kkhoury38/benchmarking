@@ -5,6 +5,6 @@ This repository contains the required files for publicly available benchmark tes
 
 ## Raspberry Pi 3B signal acquisition – SIPO Register
 
-**Folder**: [raspberry-sipo-register](./tree/main/raspberry-sipo-register)
+**Folder**: [raspberry-sipo-register](https://github.com/kkhoury38/benchmarking/tree/main/raspberry-sipo-register)
 
 Test description and results are available [here](https://atman-iot.com/blog/raspberry-pi-benchmark).
