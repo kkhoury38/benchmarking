@@ -7,4 +7,4 @@ This repository contains the required files for publicly available benchmark tes
 
 **Folder**: [raspberry-sipo-register](https://github.com/kkhoury38/benchmarking/tree/main/raspberry-sipo-register)
 
-Test description and results are available [here](https://atman-iot.com/blog/raspberry-pi-benchmark).
+We have put the Raspberry Pi to the test and benchmarked two of the most popular python libraries, **[RPi.GPIO](https://pypi.org/project/RPi.GPIO/)** and **[PIGPIO](https://pypi.org/project/pigpio/#description)**, with regard to their performance in accurately reading interdependent **high frequency** input signals. You  can read more about this test on this [blog post](https://atman-iot.com/blog/raspberry-pi-benchmark).
